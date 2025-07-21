@@ -13,6 +13,6 @@ print("Division:",div)
 
 # PythonAss2
 
-FirstName=input("Enter your First Name:")                                      # Take input and store name into FirstName variable.
-LastName=input("Enter your Last Name:")                                        # Take input and store surname into LastName variable.
+FirstName=input("Enter your First Name:")                                      # Take input and store name into "FirstName" variable.
+LastName=input("Enter your Last Name:")                                        # Take input and store surname into "LastName" variable.
 print("Hello "+FirstName+" "+LastName+"! "+"Welcome to the Python Program.")   # printing full name using Concatenate ('+') operator & Space are also store in double quotes for prper look.
